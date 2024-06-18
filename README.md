@@ -1,15 +1,14 @@
-Hi, I'm Paulo Kloster
-- 🔭 I’m currently working on a Full Stack mobile app...
-- 🌱 I’m currently self learning React-Native ...
-- 👯 I’m looking to collaborate on projects ...
-##
+# Hello! I'm Paulo Kloster 👋
 
-![Paulokloster's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulokloster&show_icons=true&bg_color=00000000)
+I am a software developer with experience in various technologies and frameworks. Currently, I'm seeking new job opportunities.
 
+## About Me
 
-
- 
-<div style="display: inline_block"><br>
+- 🌍 Currently living in Australia
+- 💼 Experienced in C#, .NET Core, React Native, Node.js, and more
+- 🚀 I develop mobile applications and web systems
+- 📚 Continuously learning and improving my skills
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,21 +18,17 @@ Hi, I'm Paulo Kloster
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
-  
-  ##
- 
-<div> 
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
-  
-</div>
 
-##
+## Contact
+
+- 📧 Email: [paulohkloster@gmail.com](mailto:paulohkloster@gmail.com)
+- 📱 LinkedIn: [linkedin.com/in/paulohkloster](https://www.linkedin.com/in/paulohkloster/)
+
+![Paulokloster's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulokloster&show_icons=true&bg_color=00000000)
+  
+
 ![GitHub Snake Animation](https://github.com/paulokloster/paulokloster/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
