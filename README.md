@@ -22,7 +22,9 @@ I am a software developer with experience in various technologies and frameworks
 ## Contact
 
 - 📧 Email: [paulohkloster@gmail.com](mailto:paulohkloster@gmail.com)
-- 📱 LinkedIn: [linkedin.com/in/paulohkloster](https://www.linkedin.com/in/paulohkloster/)
+- 📱 LinkedIn: [linkedin.com/in/paulohkloster](https://www.linkedin.com/in/paulokloster/)
+- 🐱 GitHub: [github.com/paulokloster](https://github.com/paulokloster)
+
 
 ![Paulokloster's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulokloster&show_icons=true&bg_color=00000000)
   
