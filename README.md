@@ -1,6 +1,6 @@
 # Hello! I'm Paulo Kloster 👋
 
-I am a software developer with experience in various technologies and frameworks. Currently, I'm seeking new job opportunities.
+I am a junior software developer with experience in various technologies and frameworks. Currently, I'm seeking new job opportunities.
 
 ## About Me
 
