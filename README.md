@@ -33,9 +33,8 @@ Hi, I'm Paulo Kloster
 </div>
 
 ##
-![snake gif](https://github.com/paulokloster/paulokloster/blob/output/github-contribution-grid-snake.gif)
-
 ![GitHub Snake Animation](https://github.com/paulokloster/paulokloster/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
